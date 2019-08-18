@@ -1,0 +1,37 @@
+{
+  "Groups": [
+    {
+      "Name": "All",
+      "People": [
+        {"Name" : "Avi", "PhoneNumber": "2063561863"},
+        {"Name" : "Itai", "PhoneNumber": "2063718977"},
+        {"Name" : "Zev", "PhoneNumber": "2063712450"}
+      ],
+      "Tasks": [
+        "Take out garbage",
+        "take out recycling",
+        "Mop & Sweep",
+        "Dust main room"
+      ]
+    },
+    {
+      "Name": "Shared Rooms",
+      "People": [
+        {"Name" : "Zev", "PhoneNumber": "2063718977"},
+        {"Name" : "Itai", "PhoneNumber": "2063712450"}
+      ],
+      "Tasks": [
+        "Clean the shared bathroom"
+      ]
+    },
+    {
+      "Name": "Big Room",
+      "People": [
+        {"Name" : "Avi", "PhoneNumber": "2063561863"}
+      ],
+      "Tasks": [
+        "Clean the single bathroom"
+      ]
+    }
+  ]
+}
