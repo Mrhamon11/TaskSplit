@@ -1,1 +1,1 @@
-Small Java app to manage repeating tasks amongs a group of people by assigning tasks in a fair way. Supports tasks split amongs a subset of the total number of people into groups.
+Small Java app to manage repeating tasks amongst a group of people by assigning tasks in a fair way. Supports tasks split using a subset of the total number of people if some tasks only apply to a subset of the people in the group. Number of tasks doesn't have to equal the number of people.
